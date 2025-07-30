@@ -1,0 +1,16 @@
+{
+    "name": "agus/student-management",
+    "description": "basic coding",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "agus\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "agus"
+        }
+    ],
+    "require": {}
+}
